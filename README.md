@@ -1,6 +1,6 @@
 # dnllzc-rat-botnet: Educational Remote Administration Tool (RAT) & BotNet
 
-![ASCII Logo](https://via.placeholder.com/300x100.png?text=dnllzc-RAT-BotNet)  
+![ASCII Logo](https://i.imgur.com/JpotY5O.png)  
 
 **dnllzc-rat-botnet** is a lightweight Remote Administration Tool (RAT) BotNet designed for educational purposes only. This project demonstrates the basics of distributed command execution using Python and ZeroMQ.
 
