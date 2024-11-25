@@ -1,6 +1,6 @@
 # dnllzc-rat: Educational Remote Administration Tool (RAT)
 
-![ASCII Logo](https://i.imgur.com/JpotY5O.png)  
+![ASCII Logo](https://i.imgur.com/HpTXfjH.png)  
 
 **dnllzc-rat** is a lightweight Remote Administration Tool (RAT) designed for educational purposes only. This project demonstrates the basics of distributed command execution using Python and ZeroMQ.
 
